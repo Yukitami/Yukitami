@@ -26,7 +26,7 @@ const thai = {
   interests: ["Genetic Programing", "SOM's", "Semiotic", "Autopoiesis"]
 }
 ```
-<em><i>Why should I want to make anything up? Life’s bad enough as it is without wanting to invent any more of it.”</i> — Douglas Adams, The Restaurant at the End of the Universe</em>
+<i>"Why should I want to make anything up? Life’s bad enough as it is without wanting to invent any more of it.”</i> — Douglas Adams, The Restaurant at the End of the Universe.
 
 ---
 
