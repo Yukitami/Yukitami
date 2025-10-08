@@ -16,6 +16,7 @@ College student exploring the intersection of philosophy, cognitive science, and
 Building Simulations, experimenting with predictive coding and semiotic systems
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+<img align="right" src="https://github.com/Yukitami/Yukitami/blob/main/media/zorak-space-ghost.gif" width="210">
 
 ```javascript
 const thai = {
@@ -25,7 +26,7 @@ const thai = {
   interests: ["Genetic Programing", "SOM's", "Semiotic", "Autopoiesis"]
 }
 ```
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<em><i>Why should I want to make anything up? Life’s bad enough as it is without wanting to invent any more of it.”</i> — Douglas Adams, The Restaurant at the End of the Universe</em>
 
 ---
 
