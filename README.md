@@ -1,6 +1,6 @@
-<h2> Hi, I'm Kenrighan! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Kenrighan! <img align='center' src="https://github.com/Yukitami/Yukitami/blob/main/media/ena-dream-bbq-ena.gif" width="100"></h2>
 
-<img align='right' src="https://tenor.com/uptUYETbeQR.gif" width="230">
+<img align='right' src="https://github.com/Yukitami/Yukitami/blob/main/media/ena-joel-1.gif" width="230">
 
 <p><em>Member of <a href="https://www.roboticacognitiva.mx/">Laboratorio de Robotica Cognitiva</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 
