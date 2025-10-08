@@ -9,3 +9,6 @@ Building Simulations, experimenting with predictive coding and semiotic systems
 -  &nbsp; SOM's
 -  &nbsp; Autopoiesis
 
+You can find more about me here
+https://thehiddenbit.com/
+
